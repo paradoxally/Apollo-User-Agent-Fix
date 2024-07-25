@@ -1,0 +1,9 @@
+Package: com.paradoxally.apollouafix
+Name: Apollo User Agent Fix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fixes Apollo's user agent
+Maintainer: paradoxally
+Author: paradoxally
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
