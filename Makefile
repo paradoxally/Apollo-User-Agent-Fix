@@ -1,3 +1,4 @@
+THEOS_PACKAGE_SCHEME=rootless
 TARGET := iphone:clang:latest:16.0
 INSTALL_TARGET_PROCESSES = Apollo
 
